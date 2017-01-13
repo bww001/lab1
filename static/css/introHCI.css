@@ -1,0 +1,15 @@
+#pic-1{
+  height: 500px;
+}
+
+#project-title, p {
+  display:inline-block;
+}
+
+span a{
+  font-size: large;
+}
+span p{
+  float:right;
+}
+
